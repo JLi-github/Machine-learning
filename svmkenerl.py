@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# Mathieu Blondel, September 2010
 # License: BSD 3 clause
 
 import numpy as np
