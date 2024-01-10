@@ -1,1 +1,1 @@
-This is about the basic machine learning python functions
+Python for machine learning functions
